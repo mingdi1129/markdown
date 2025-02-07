@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="ha"
+                 name="汇沣支付"
+                 start-page="API_Reference.topic">
+
+    <toc-element topic="API_Reference.topic"/>
+    <toc-element topic="加密方式.md"/>
+    <toc-element topic="代收.md">
+        <toc-element topic="创建代收订单.topic"/>
+        <toc-element topic="创建代收订单-泰国.topic"/>
+        <toc-element topic="创建代收订单-越南.topic"/>
+        <toc-element topic="创建代收订单-印尼.topic"/>
+        <toc-element topic="创建代收订单-印度.topic"/>
+        <toc-element topic="创建代收订单-日本.topic"/>
+        <toc-element topic="创建代收订单-韩国.topic"/>
+        <toc-element topic="创建代收订单-菲律宾.topic"/>
+        <toc-element topic="创建代收订单-马来西亚.topic"/>
+        <toc-element topic="代收编码.md"/>
+    </toc-element>
+    <toc-element topic="代付.md">
+        <toc-element topic="创建代付订单.topic"/>
+        <toc-element topic="代付订单-巴西.topic"/>
+        <toc-element topic="代付订单-越南.topic"/>
+        <toc-element topic="代付订单-印尼.topic"/>
+        <toc-element topic="代付订单-印度.topic"/>
+        <toc-element topic="代付订单-日本.topic"/>
+        <toc-element topic="代付订单-韩国.topic"/>
+        <toc-element topic="代付订单-菲律宾.topic"/>
+        <toc-element topic="代付订单-马来西亚.topic"/>
+        <toc-element topic="代付编码.md"/>
+    </toc-element>
+    <toc-element topic="回调.md"/>
+</instance-profile>
